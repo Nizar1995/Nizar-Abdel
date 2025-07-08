@@ -73,14 +73,14 @@ University of Southern Denmark (SDU)
 ## 📜 Certificates
 
 - 📄 IBM: [Data Analysis with Python (Coursera)](https://www.coursera.org/learn/data-analysis-with-python)
-- 📄 (Add more as you complete them)
+- 📄 
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: nizar.abdel.all@hotmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nizar-abdel-all/)
 
 
 
