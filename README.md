@@ -14,7 +14,7 @@ In my free time, I enjoy exploring new tools, working with open datasets, and bu
 ## 📁 Table of Contents
 
 - [About](https://github.com/Nizar1995/Nizar-Abdel/blob/main/README.md#-about)
-- [Portfolio Projects](#portfolio-projects)
+- [Portfolio Projects](https://github.com/Nizar1995/Nizar-Abdel/blob/main/README.md#-portfolio-projects)
   - [Python Projects](#python-projects)
   - [SQL Projects](#sql-projects)
   - [Power BI Dashboards](#power-bi-dashboards)
