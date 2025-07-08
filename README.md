@@ -20,4 +20,5 @@ My CV in [pdf](https://github.com/Nizar1995/Nizar-Abdel/blob/main/CV(English).pd
     - 
     - 
   - Power BI
+    - 
 
